@@ -1,8 +1,8 @@
-- 👋 Hi, I’m EL JILY MOHAMED
-- 👀 I’m interested in 
-app development in general.
-- 🌱 I’m currently learning Flutter.
-- 💞️ I look forward to creating many more software projects in the future <br />
+
+
+-  Hi, I’m EL JILY MOHAMED
+-  I’m interested in app development in general.
+-  I look forward to creating many more software projects in the future <br />
 
 ## Languages and Tools 
 <img align="left" alt="PHP" width="32px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgdvwSG-A2_lmj6dmbsro7-gqEIxyNzLW0LA&usqp=CAU" /> 
