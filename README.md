@@ -1,6 +1,6 @@
 
 
--  Hi, I’m EL JILY MOHAMED
+-  EL JILY MOHAMED
 -  I’m interested in app development in general.
 -  I look forward to creating many more software projects in the future <br />
 
