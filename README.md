@@ -3,8 +3,6 @@
 
 <h1 align="center">eyyo, I'm Anas</h1>
 <h3 align="center">Computer Science Student from mauritania</h3>
-<p align="center"> <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cldav9k4o00450fmqdau6nwpt/stats?cursusId=21&coalitionId=73" alt="aarbaoui's 42 stats" /></a></p>
-
 
 
 <h3 align="center">Connect with me:</h3>
