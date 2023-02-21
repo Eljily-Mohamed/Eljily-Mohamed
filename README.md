@@ -10,6 +10,7 @@ Hi, I'm [Eljily Mohamed!] Computer Science Student from mauritania 🚀 from Mau
 
 - 👨🏽‍💻 I’m currently working on MERN Stack;
 - 🌱 I’m currently learning Flask; 
+- 💻 
 - 💬 Ask me about anything, I am happy to help;
 - 🌱 Email address -mohamedeljily2005@gmail.com
 
