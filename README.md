@@ -9,7 +9,7 @@
 <p align="center">
 <a href="https://twitter.com/JilyMohamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eljily" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/el-jily-mohamed-6b9405228/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="eljily" height="30" width="40" /></a>
-<h2 align="center">Email:eljilymohamed07@gmail.com</h2>
+<h2 align="center">Email:mohamedeljily2005@gmail.com</h2>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
