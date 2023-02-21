@@ -11,7 +11,7 @@ Hi, I'm [Eljily Mohamed!] Computer Science Student from mauritania 🚀 from Mau
 - 👨🏽‍💻 I’m currently working on MERN Stack;
 - 🌱 I’m currently learning Flask; 
 - 💬 Ask me about anything, I am happy to help;
-- 🌱 Email address - sajeebchakraborty.cse2000@gmail.com
+- 🌱 Email address -mohamedeljily2005@gmail.com
 
 
 <h3 align="center">Languages and Tools:</h3>
