@@ -1,7 +1,7 @@
 
 <body background-color="white">
 
-<!-- <h1 align="center">eyyo, I'm Eljily Mohamed</h1>
+<h1 align="center">eyyo, I'm Eljily Mohamed</h1>
 <h3 align="center">Computer Science Student from mauritania</h3>
 
 
@@ -20,5 +20,5 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Eljily-Mohamed&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Eljily-Mohamed&show_icons=true&locale=en&theme=radical" alt="Eljily Mohamed" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=Eljily-Mohamed"alt="Eljily Mohamed" /></p>
- -->
+
 </body>
