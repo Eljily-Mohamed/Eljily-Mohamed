@@ -1,16 +1,18 @@
 
 <body background-color="white">
 
-<h1 align="center">eyyo, I'm Eljily Mohamed</h1>
-<h3 align="center">Computer Science Student from mauritania</h3>
+
+Hi, I'm [Eljily Mohamed!] Computer Science Student from mauritania 🚀 from Mauritania.
 
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/JilyMohamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eljily" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/el-jily-mohamed-6b9405228/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="eljily" height="30" width="40" /></a>
-<h2 align="center">Email:mohamedeljily2005@gmail.com</h2>
-</p>
+  
+**Talking about Personal Topics:**
+
+- 👨🏽‍💻 I’m currently working on MERN Stack;
+- 🌱 I’m currently learning Flask; 
+- 💬 Ask me about anything, I am happy to help;
+- 🌱 Email address - sajeebchakraborty.cse2000@gmail.com
+
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"><a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a><a href="https://httpd.apache.org/" target="_blank" rel="noreferrer"> <img src="./apache.png" alt="apache" width="40" height="40"/> </a><a href="https://www.pygame.org/" target="_blank" rel="noreferrer"> <img src="./pygame.png" alt="pygame" width="40" height="40"/> </a><a href="https://www.java.com/fr/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="java" width="40" height="40"/> </a> <a href="https://tailwindcss.com/resources" target="_blank" rel="noreferrer"> <img src="./tailwindCss.png" alt="tailwind" width="40" height="40"/> <a href="https://www.ibm.com/docs/fr/rational-soft-arch/9.5?topic=diagrams-uml-models" target="_blank" rel="noreferrer"> <img src="./uml.png" alt="uml" width="40" height="40"/></a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
