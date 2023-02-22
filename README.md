@@ -14,7 +14,7 @@ Hi, I'm [Eljily Mohamed!] Computer Science Student 🚀 from Mauritania.
 - 🌱 Email address mohamedeljily2005@gmail.com
  
  
- When I'm not studying or writing code, you can find me playing [Chess ♟](https://www.chess.com/member/chedlyzouche), listening to [music]🎵, [ricing] 
+ When I'm not studying or writing code, you can find me playing [Chess ♟](https://www.chess.com/member/Eljily), listening to [music]🎵, [ricing] 
  or sometimes reading 📚.
 
   
