@@ -2,7 +2,7 @@
 <body background-color="white">
 
 
-Hi, I'm [Eljily Mohamed!] Computer Science Student from mauritania 🚀 from Mauritania.
+Hi, I'm [Eljily Mohamed!] Computer Science Student 🚀 from Mauritania.
 
 
   
