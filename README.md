@@ -6,10 +6,10 @@ Hi, I'm [Eljily Mohamed!] Computer Science Student 🚀 from Mauritania.
   
 **Talking about Personal Topics:**
 
-- 👨🏽‍💻 I’m currently working on MERN Stack;
-- 👨🏽‍💻 CCNA1 , CCNA2 , LPIC-1 , LPIC-2 , windows server administration;
-- 🌱 I’m currently learning Flask; 
-- 💻 My Portfolio is at https://eljily-mohamed.github.io/
+- 👨🏽‍💻 I’m currently working on **MERN Stack**;
+-🏽‍💻 CCNA1 , CCNA2 , LPIC-1 , LPIC-2 , windows server administration;
+- 🌱 I’m currently learning **Flask**; 
+- 💻 My Portfolio is at **https://eljily-mohamed.github.io/**
 - 💬 Ask me about anything, I am happy to help;
 - 🌱 Email address mohamedeljily2005@gmail.com
  
