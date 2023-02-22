@@ -15,6 +15,9 @@ Hi, I'm [Eljily Mohamed!] Computer Science Student 🚀 from Mauritania.
 - 💬 Ask me about anything, I am happy to help;
 - 🌱 Email address mohamedeljily2005@gmail.com
 
+  
+ When I'm not studying or writing code, you can find me playing [Chess ♟](https://www.chess.com/member/chedlyzouche), listening to [music]🎵, [ricing] 
+ or sometimes reading 📚.
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"><a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a><a href="https://httpd.apache.org/" target="_blank" rel="noreferrer"> <img src="./apache.png" alt="apache" width="40" height="40"/> </a><a href="https://www.pygame.org/" target="_blank" rel="noreferrer"> <img src="./pygame.png" alt="pygame" width="40" height="40"/> </a><a href="https://www.java.com/fr/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="java" width="40" height="40"/> </a> <a href="https://tailwindcss.com/resources" target="_blank" rel="noreferrer"> <img src="./tailwindCss.png" alt="tailwind" width="40" height="40"/> <a href="https://www.ibm.com/docs/fr/rational-soft-arch/9.5?topic=diagrams-uml-models" target="_blank" rel="noreferrer"> <img src="./uml.png" alt="uml" width="40" height="40"/></a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
