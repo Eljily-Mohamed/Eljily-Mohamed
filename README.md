@@ -11,7 +11,7 @@ Hi, I'm [Eljily Mohamed!] Computer Science Student 🚀 from Mauritania.
 - 🌱 I’m currently learning **Flask**; 
 - 💻 My Portfolio is at **https://eljily-mohamed.github.io/**
 - 💬 Ask me about anything, I am happy to help;
-- 🌱 Email address  **mohamedeljily2005@gmail.com **
+- 🌱 Email address  mohamedeljily2005@gmail.com 
  
  
  When I'm not studying or writing code, you can find me playing [Chess ♟](https://www.chess.com/member/Eljily), listening to [music]🎵
