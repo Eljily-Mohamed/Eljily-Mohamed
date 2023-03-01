@@ -16,6 +16,7 @@ Hi, I'm [Eljily Mohamed!] Computer Science Student 🚀 from Mauritania.
  
  When I'm not studying or writing code, you can find me playing [Chess ♟](https://www.chess.com/member/Eljily), listening to [music]🎵
  or sometimes reading 📚.
+  
 
   
 <h3 align="center">Languages and Tools:</h3>
