@@ -2,21 +2,19 @@
 <body background-color="white">
 
 
-Hi, I'm [Eljily Mohamed!] Computer Science Student 🚀 from Mauritania.
+Hi, I'm [Eljily Mohamed!] currently an engineering student at ENIB. I'm currently studying electronics, computer science, and mechanics.
   
 **Talking about Personal Topics:**
 
 - 👨🏽‍💻 I’m currently working on **Maurican**
 - 🌱 CCNA1 , CCNA2 , LPIC-1 , LPIC-2 , windows server administration
-- 🌱 I’m currently learning **Django**
-- 💻 My Portfolio is at **https://eljily-mohamed.github.io/**
+- 🌱 My current studies focus on **electronics**, **computer science**, and **mechanics** at **ENIB**
+- 💻 Check out my portfolio at **https://eljily-mohamed.github.io/**
 - 💬 Ask me about anything, I am happy to help
-- 🌱 Email address  mohamedeljily2005@gmail.com 
+- 🌱 Email address  **mohamedeljily2005@gmail.com**
  
- 
- When I'm not studying or writing code, you can find me playing [Chess ♟](https://www.chess.com/member/Eljily), listening to [music]🎵
- or sometimes reading 📚.
-  
+
+When I'm not immersed in these exciting areas of study, you can find me playing chess ♟, listening to [music]🎵, or sometimes reading 📚."
 
   
 <h3 align="center">Languages and Tools:</h3>
