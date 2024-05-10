@@ -6,7 +6,7 @@ Hi, I'm [Eljily Mohamed!] currently an engineering student at ENIB. I'm currentl
   
 **Talking about Personal Topics:**
 
-- 👨🏽‍💻 I’m currently working on **Maurican**
+- 👨🏽‍💻 I’m currently working on **embedded system**
 - 🌱 CCNA1 , CCNA2 , LPIC-1 , LPIC-2 , windows server administration
 - 🌱 My current studies focus on **electronics**, **computer science**, and **mechanics** at **ENIB**
 - 💻 Check out my portfolio at **https://eljily-mohamed.github.io/**
