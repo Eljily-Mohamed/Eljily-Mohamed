@@ -9,7 +9,7 @@ Hi, I'm [Eljily Mohamed!] currently an engineering student at ENIB. I'm currentl
 - 👨🏽‍💻 I’m currently working on **embedded system**
 - 🌱 CCNA1 , CCNA2 , LPIC-1 , LPIC-2 , windows server administration
 - 🌱 My current studies focus on **electronics**, **computer science**, and **mechanics** at **ENIB**
-- 💻 Check out my portfolio at **https://eljily-mohamed.github.io/**
+- 💻 Check out my portfolio at **https://ELjily-Mohamed.github.io/**
 - 💬 Ask me about anything, I am happy to help
 - 🌱 Email address  **mohamedeljily2005@gmail.com**
  
