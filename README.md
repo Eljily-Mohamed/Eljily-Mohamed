@@ -1,17 +1,16 @@
 <body style="background-color: white; font-family: Arial, sans-serif; color: #333;">
 
 <h1 align="center">Hi, I'm <a href="https://github.com/Eljily-Mohamed" target="_blank" rel="noopener noreferrer">Eljily Mohamed</a>!</h1>
-<p align="center">Engineering Student at ENIB | Embedded Systems Enthusiast | Tech Lover</p>
+<p align="center">Engineering Student at ENIB </p>
 
 <h2>About Me</h2>
 <p>
-  I'm an engineering student at ENIB, where I dive into the fascinating worlds of electronics, computer science, and mechanics. My passion for technology drives me to explore and innovate, especially in the field of embedded systems.
+  I'm an engineering student at ENIB, where I dive into the fascinating worlds of electronics, computer science, and mechanics.
 </p>
 
 <h3>Personal Interests:</h3>
 <ul>
   <li>👨🏽‍💻 Currently working on <strong>embedded systems</strong></li>
-  <li>🌱 Certifications: CCNA1, CCNA2, LPIC-1, LPIC-2, Windows Server Administration</li>
   <li>📚 Focused on <strong>electronics</strong>, <strong>computer science</strong>, and <strong>mechanics</strong> at <strong>ENIB</strong></li>
   <li>💻 Check out my portfolio: <a href="https://ELjily-Mohamed.github.io/" target="_blank" rel="noopener noreferrer"><strong>My Portfolio</strong></a></li>
   <li>💬 I'm always open to questions and happy to help—just reach out!</li>
@@ -19,7 +18,7 @@
 </ul>
 
 <h3>Hobbies</h3>
-<p>When I'm not studying, I enjoy playing chess ♟, listening to <a href="https://open.spotify.com/" target="_blank" rel="noopener noreferrer">music</a> 🎵, and sometimes getting lost in a good book 📚.</p>
+<p>When I'm not studying, I enjoy playing chess .</p>
 
 <h2 align="center">Languages and Tools:</h2>
 <p align="center">
