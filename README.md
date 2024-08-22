@@ -18,7 +18,8 @@
 </ul>
 
 <h3>Hobbies</h3>
-<p>When I'm not studying, I enjoy playing chess .</p>
+
+<p>When I'm not studying, I enjoy playing chess ♟, listening to <a href="https://open.spotify.com/" target="_blank" rel="noopener noreferrer">music</a> 🎵, and sometimes getting lost in a good book 📚.</p>
 
 <h2 align="center">Languages and Tools:</h2>
 <p align="center">
@@ -121,9 +122,6 @@
 </p>
 
 <h2 align="center">📈 Contribution Stats</h2>
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Eljily-Mohamed&theme=rogue" alt="GitHub Activity Graph" />
-</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Eljily-Mohamed&show_icons=true&locale=en&theme=radical" alt="Eljily Mohamed's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eljily-Mohamed&theme=radical" alt="GitHub Streak Stats" />
