@@ -21,6 +21,7 @@
 
 <p>When I'm not studying, I enjoy playing chess ♟, listening to <a href="https://open.spotify.com/" target="_blank" rel="noopener noreferrer">music</a> 🎵, and sometimes getting lost in a good book 📚.</p>
 
+<!--
 <h2 align="center">Languages and Tools:</h2>
 <p align="center">
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noopener noreferrer">
@@ -120,7 +121,7 @@
     <img src="https://leizl.gallerycdn.vsassets.io/extensions/leizl/swagger-generate-ts/0.0.10/1673338730649/Microsoft.VisualStudio.Services.Icons.Default" alt="Swagger" width="40" height="40"/>
   </a>
 </p>
-
+-->
 <h2 align="center">📈 Contribution Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Eljily-Mohamed&show_icons=true&locale=en&theme=radical" alt="Eljily Mohamed's GitHub Stats" />
