@@ -10,7 +10,7 @@
 
 <h3>Personal Interests:</h3>
 <ul>
-  <li>👨🏽‍💻 Currently working on <strong>embedded systems</strong></li>
+  <li>👨🏽‍💻 Currently working on <strong>embedded systems</strong> and exploring <strong>machine learning</strong></li>
   <li>📚 Focused on <strong>electronics</strong>, <strong>computer science</strong>, and <strong>mechanics</strong> at <strong>ENIB</strong></li>
   <li>💻 Check out my portfolio: <a href="https://ELjily-Mohamed.github.io/" target="_blank" rel="noopener noreferrer"><strong>My Portfolio</strong></a></li>
   <li>💬 I'm always open to questions and happy to help—just reach out!</li>
