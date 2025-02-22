@@ -120,7 +120,19 @@
   <a href="https://swagger.io/" target="_blank" rel="noopener noreferrer">
     <img src="https://leizl.gallerycdn.vsassets.io/extensions/leizl/swagger-generate-ts/0.0.10/1673338730649/Microsoft.VisualStudio.Services.Icons.Default" alt="Swagger" width="40" height="40"/>
   </a>
-</p> 
+  <!-- Added Next.js -->
+  <a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
+  </a>
+  <!-- Added Angular -->
+  <a href="https://angular.io/" target="_blank" rel="noopener noreferrer">
+    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
+  </a>
+  <!-- Added Godot 4 -->
+  <a href="https://godotengine.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://godotengine.org/assets/press/icon_color.png" alt="Godot 4" width="40" height="40"/>
+  </a>
+</p>
 
 <h2 align="center">📈 Contribution Stats</h2>
 <p align="center">
