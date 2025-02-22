@@ -7,7 +7,7 @@
 <p>
   I'm an engineering student at ENIB, where I dive into the fascinating worlds of electronics, computer science, and mechanics.
 </p>
-<!-- 
+
 <h3>Personal Interests:</h3>
 <ul>
   <li>👨🏽‍💻 Currently working on <strong>embedded systems</strong> and exploring <strong>machine learning</strong></li>
@@ -120,7 +120,7 @@
   <a href="https://swagger.io/" target="_blank" rel="noopener noreferrer">
     <img src="https://leizl.gallerycdn.vsassets.io/extensions/leizl/swagger-generate-ts/0.0.10/1673338730649/Microsoft.VisualStudio.Services.Icons.Default" alt="Swagger" width="40" height="40"/>
   </a>
-</p> -->
+</p> 
 
 <h2 align="center">📈 Contribution Stats</h2>
 <p align="center">
