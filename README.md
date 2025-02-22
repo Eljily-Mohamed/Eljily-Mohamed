@@ -1,3 +1,27 @@
+<body style="background-color: white; font-family: Arial, sans-serif; color: #333;">
+
+<h1 align="center">Hi, I'm <a href="https://github.com/Eljily-Mohamed" target="_blank" rel="noopener noreferrer">Eljily Mohamed</a>!</h1>
+<p align="center">Engineering Student at ENIB </p>
+
+<h2>About Me</h2>
+<p>
+  I'm an engineering student at ENIB, where I dive into the fascinating worlds of electronics, computer science, and mechanics.
+</p>
+
+<h3>Personal Interests:</h3>
+<ul>
+  <li>👨🏽‍💻 Currently working on <strong>embedded systems</strong> and exploring <strong>machine learning</strong></li>
+  <li>📚 Focused on <strong>electronics</strong>, <strong>computer science</strong>, and <strong>mechanics</strong> at <strong>ENIB</strong></li>
+  <li>💻 Check out my portfolio: <a href="https://ELjily-Mohamed.github.io/" target="_blank" rel="noopener noreferrer"><strong>My Portfolio</strong></a></li>
+  <li>💬 I'm always open to questions and happy to help—just reach out!</li>
+  <li>📧 Contact me at: <strong>mohamedeljily2005@gmail.com</strong></li>
+</ul>
+
+<h3>Hobbies</h3>
+
+<p>When I'm not studying, I enjoy playing chess ♟, listening to <a href="https://open.spotify.com/" target="_blank" rel="noopener noreferrer">music</a> 🎵, and sometimes getting lost in a good book 📚.</p>
+
+
 <h2 align="center">Languages and Tools:</h2>
 <p align="center">
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noopener noreferrer">
@@ -108,20 +132,12 @@
   <a href="https://godotengine.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://godotengine.org/assets/press/icon_color.png" alt="Godot 4" width="40" height="40"/>
   </a>
-  <!-- Added STM32 -->
-  <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.st.com/bin/ecommerce/api/image.PF266053.en.feature-description-include-personalized-no-cpn-large.jpg" alt="STM32" width="40" height="40"/>
-  </a>
-  <!-- Added Jupyter Notebook -->
-  <a href="https://jupyter.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Notebook" width="40" height="40"/>
-  </a>
-  <!-- Added VHDL -->
-  <a href="https://en.wikipedia.org/wiki/VHDL" target="_blank" rel="noopener noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/VHDL_Logo.png" alt="VHDL" width="40" height="40"/>
-  </a>
-  <!-- Added STM32CubeIDE -->
-  <a href="https://www.st.com/en/development-tools/stm32cubeide.html" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.st.com/bin/ecommerce/api/image.PF267053.en.feature-description-include-personalized-no-cpn-large.jpg" alt="STM32CubeIDE" width="40" height="40"/>
-  </a>
 </p>
+
+<h2 align="center">📈 Contribution Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Eljily-Mohamed&show_icons=true&locale=en&theme=radical" alt="Eljily Mohamed's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eljily-Mohamed&theme=radical" alt="GitHub Streak Stats" />
+</p>
+
+</body>
