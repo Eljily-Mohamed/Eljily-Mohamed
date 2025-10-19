@@ -12,7 +12,7 @@
 <ul>
   <li>👨🏽‍💻 Currently working on <strong>embedded systems</strong> and exploring <strong>machine learning</strong></li>
   <li>📚 Focused on <strong>electronics</strong>, <strong>computer science</strong>, and <strong>mechanics</strong> at <strong>ENIB</strong></li>
-  <li>💻 Check out my portfolio: <a href="https://ELjily-Mohamed.github.io/" target="_blank" rel="noopener noreferrer"><strong>My Portfolio</strong></a></li>
+  <li>💻 Check out my portfolio: <a href="https://my-cv-desktop.vercel.app/" target="_blank" rel="noopener noreferrer"><strong>My Portfolio</strong></a></li>
   <li>💬 I'm always open to questions and happy to help—just reach out!</li>
   <li>📧 Contact me at: <strong>mohamedeljily2005@gmail.com</strong></li>
 </ul>
