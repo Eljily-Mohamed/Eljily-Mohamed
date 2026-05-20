@@ -57,13 +57,6 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eljily-Mohamed&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eljily-Mohamed&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
 [![Eljily's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eljily-Mohamed&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 </div>
