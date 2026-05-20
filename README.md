@@ -57,19 +57,10 @@
 
 <div align="center">
 
-[![Eljily's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eljily-Mohamed&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Eljily-Mohamed&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Eljily-Mohamed&theme=tokyonight&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
