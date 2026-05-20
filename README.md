@@ -64,7 +64,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Eljily-Mohamed&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![Eljily's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eljily-Mohamed&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 </div>
 
