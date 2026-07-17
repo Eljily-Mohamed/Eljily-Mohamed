@@ -39,11 +39,6 @@ jobs:
 
           plugin_isocalendar: yes
 
-          plugin_habits: yes
-          plugin_habits_days: 30
-          plugin_habits_facts: yes
-          plugin_habits_from: 200
-
           plugin_lines: yes
 
           plugin_followup: yes
@@ -52,10 +47,6 @@ jobs:
           plugin_topics_limit: 20
 
           plugin_stars: yes
-
-          plugin_achievements: yes
-          plugin_achievements_threshold: C
-          plugin_achievements_display: compact
 
           plugin_repositories: yes
 
