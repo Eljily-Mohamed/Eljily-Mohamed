@@ -53,20 +53,11 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Metrics
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Eljily-Mohamed&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
-
----
-
-## 📈 Contribution Graph
-
-[![Eljily's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Eljily-Mohamed&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <img src="./github-metrics.svg" width="100%">
+</p>
 
 ---
 
